@@ -1,0 +1,7 @@
+C:\Users\olusegun.babatunde\Documents\GitHub\coure\coure-test-array\bin\Debug\coure-test-array.exe.config
+C:\Users\olusegun.babatunde\Documents\GitHub\coure\coure-test-array\bin\Debug\coure-test-array.exe
+C:\Users\olusegun.babatunde\Documents\GitHub\coure\coure-test-array\bin\Debug\coure-test-array.pdb
+C:\Users\olusegun.babatunde\Documents\GitHub\coure\coure-test-array\obj\Debug\coure-test-array.csproj.AssemblyReference.cache
+C:\Users\olusegun.babatunde\Documents\GitHub\coure\coure-test-array\obj\Debug\coure-test-array.csproj.CoreCompileInputs.cache
+C:\Users\olusegun.babatunde\Documents\GitHub\coure\coure-test-array\obj\Debug\coure-test-array.exe
+C:\Users\olusegun.babatunde\Documents\GitHub\coure\coure-test-array\obj\Debug\coure-test-array.pdb
